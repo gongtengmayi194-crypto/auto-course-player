@@ -1,6 +1,3 @@
-可以，下面给你一份可直接放到 GitHub 的 `README.md`。
-
-````markdown
 # 网课助手 Tampermonkey 脚本
 
 用于辅助播放西北农林科技大学相关网课页面的油猴脚本。
